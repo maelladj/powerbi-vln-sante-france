@@ -40,7 +40,7 @@ Explorer les données issues de l’annuaire OpenDataSoft des professionnels de 
 
 Le fichier Power BI complet et le jeu de données d’origine étant trop volumineux pour GitHub, ils sont disponibles en téléchargement sécurisé :
 
-- Fichier Power BI (.pbix) : [Lien vers One Drive]([https://...](https://1drv.ms/u/c/ab60a862d6a8ff1e/ETcMpkk-769BqtA0h_UplH0B-hC5Yz2aqcIqYEAtiLVDxQ?e=8eUCU0))
+- Fichier Power BI (.pbix) : [Lien vers One Drive](https://1drv.ms/u/c/ab60a862d6a8ff1e/ETcMpkk-769BqtA0h_UplH0B-hC5Yz2aqcIqYEAtiLVDxQ?e=8eUCU0))
 - Dataset CSV : [Lien vers One Drive](https://1drv.ms/x/c/ab60a862d6a8ff1e/ET01cOCn0-FPq0Kza-OqKREBpyQDxykKusCLisH1QHhnew?e=RdajTC)
 
 
